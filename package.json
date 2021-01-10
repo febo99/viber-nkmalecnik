@@ -1,0 +1,19 @@
+{
+  "name": "viber-nk-malecnik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febo99/viber-nkmalecnik.git"
+  },
+  "author": "Ziga Lah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febo99/viber-nkmalecnik/issues"
+  },
+  "homepage": "https://github.com/febo99/viber-nkmalecnik#readme"
+}
